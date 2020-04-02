@@ -1,0 +1,24 @@
+ name=Tom
+ age=28
+ 
+ URL=https://www.utest.com/signup/personal
+ 
+ browser=chrome
+ ***********************Register Page data*****
+ firstname=Tom
+ lastname=peter
+ email=arun@gmail.com
+
+ *********register Page object repositery******
+ 
+ Firstname_xpath =//input[@id='firstName']
+ lastname_xpath = //input[@id='lastName']
+ email_xpath = email
+ 
+ 
+ **********Login Page*****
+ 
+ email_id = username
+ password_id = password
+ signin_id = kc-login
+ 

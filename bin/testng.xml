@@ -1,0 +1,26 @@
+<suite name="TestNg Session">
+
+
+	<test name="TestNg Training">
+
+
+		<classes>
+
+			<class name="com.TestNg.ExceptionTimeoutTest" />
+			<class name="com.TestNg.GoogleTest" />
+			<class name="com.TestNg.GoogleTitleTest" />
+			<class name="com.TestNg.invocationCountTest" />
+			<class name="com.TestNg.TestNgBasics" />
+			<class name="com.TestNg.TestNgFeature" />
+
+
+
+		</classes>
+
+
+
+
+	</test>
+
+
+</suite>
