@@ -11,5 +11,24 @@
 	<classpathentry kind="lib" path="E:/Selenium Training/libs/okio-1.14.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/T542/Downloads/selenium-htmlunit-driver-2.9.0.jar.zip"/>
 	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/010645_puresoft/Downloads/poi-bin-4.1.2-20200217/poi-4.1.2/poi-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/010645_puresoft/Downloads/poi-bin-4.1.2-20200217/poi-4.1.2/poi-examples-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/010645_puresoft/Downloads/poi-bin-4.1.2-20200217/poi-4.1.2/poi-excelant-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/010645_puresoft/Downloads/poi-bin-4.1.2-20200217/poi-4.1.2/poi-ooxml-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/010645_puresoft/Downloads/poi-bin-4.1.2-20200217/poi-4.1.2/poi-ooxml-schemas-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/010645_puresoft/Downloads/poi-bin-4.1.2-20200217/poi-4.1.2/poi-scratchpad-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/010645_puresoft/Downloads/poi-bin-4.1.2-20200217/poi-4.1.2/ooxml-lib/curvesapi-1.06.jar"/>
+	<classpathentry kind="lib" path="C:/Users/010645_puresoft/Downloads/poi-bin-4.1.2-20200217/poi-4.1.2/ooxml-lib/xmlbeans-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/010645_puresoft/Downloads/commons-collections4-4.0 (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/010645_puresoft/Downloads/commons-collections4-4.4-bin/commons-collections4-4.4/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/010645_puresoft/Downloads/commons-collections4-4.4-bin/commons-collections4-4.4/commons-collections4-4.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/010645_puresoft/Downloads/commons-collections4-4.4-bin/commons-collections4-4.4/commons-collections4-4.4-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/010645_puresoft/Downloads/commons-collections4-4.4-bin/commons-collections4-4.4/commons-collections4-4.4-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Users/010645_puresoft/Downloads/commons-collections4-4.4-bin/commons-collections4-4.4/commons-collections4-4.4-test-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/010645_puresoft/Downloads/commons-compress-1.20-bin/commons-compress-1.20/commons-compress-1.20.jar"/>
+	<classpathentry kind="lib" path="C:/Users/010645_puresoft/Downloads/commons-compress-1.20-bin/commons-compress-1.20/commons-compress-1.20-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/010645_puresoft/Downloads/commons-compress-1.20-bin/commons-compress-1.20/commons-compress-1.20-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/010645_puresoft/Downloads/commons-compress-1.20-bin/commons-compress-1.20/commons-compress-1.20-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Users/010645_puresoft/Downloads/commons-compress-1.20-bin/commons-compress-1.20/commons-compress-1.20-test-sources.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
